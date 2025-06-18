@@ -29,7 +29,6 @@ namespace BingoMode.BingoMenu
         bool lastOnSettings;
         BingoButton owner;
         FSprite pageTitle;
-        FSprite pageTitle2;
         SimpleButton closeButton;
         FSprite[] dividers;
         FLabel description;
